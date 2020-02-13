@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://nuxt-sample01.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">816697424293</string>
+  <string name="google_storage_bucket" translatable="false">nuxt-sample01.appspot.com</string>
+  <string name="project_id" translatable="false">nuxt-sample01</string>
+  <string name="google_api_key" translatable="false">AIzaSyCMJ4ud_PbT9thqNGHkRcMwLZ9Z-dgOzoc</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCMJ4ud_PbT9thqNGHkRcMwLZ9Z-dgOzoc</string>
+  <string name="google_app_id" translatable="false">1:816697424293:android:bcf1bc74728246fc74904c</string>
+  <string name="default_web_client_id" translatable="false">816697424293-hj2igj5fjrbqfr0d4e2q44noffp5doec.apps.googleusercontent.com</string>
+</resources>
